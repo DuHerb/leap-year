@@ -18,7 +18,9 @@ _Simple page to calulate leap year_
 | Behavior | Input | Output |
 | --- | --- | --- |
 | Return false when not a leap year | 1993 | false |
-| --- | --- | --- |
+| Return true if divisible by 4 | 2004 | true |
+| Return false if divisible by 100 | 1900 | false |
+| Return true if divisible by 400 | 2000 | true |
 
 
 
